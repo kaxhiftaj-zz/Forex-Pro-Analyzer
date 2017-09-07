@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Forex Pro Analyzer</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-9815500932382543/7153361989</string>
+    <string name="interstitial_full_screen">ca-app-pub-9815500932382543/4795572209</string>
+    <string name="ad_unit_id">ca-app-pub-9815500932382543/2472661193</string>
+
 </resources>
